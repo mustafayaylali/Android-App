@@ -1,2 +1,1 @@
-# Android-App
-İngilizce Dünyası Mobile App
+https://play.google.com/store/apps/details?id=com.yaylali.ulkelerApp
